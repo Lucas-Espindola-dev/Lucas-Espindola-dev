@@ -13,7 +13,7 @@ Atualmente focado em 💻:
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Espindola-dev&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Espindola-dev&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Espindola-dev&layout=compact&theme=dracula"/>
 </div>
 
 #### Você também me encontra em:
