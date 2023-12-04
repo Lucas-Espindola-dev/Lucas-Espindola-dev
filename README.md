@@ -11,4 +11,8 @@ Atualmente focado em 💻:
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 </div>
 
+#### Você também me encontra em:
+<a href="https://www.linkedin.com/in/lucas-espindola-dev/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
 
