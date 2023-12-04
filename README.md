@@ -15,6 +15,7 @@ Atualmente focado em 💻:
 <div display='inline'>
 <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
 <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 </div>
 
 #### Você também me encontra em:
