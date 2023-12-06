@@ -21,7 +21,7 @@ Atualmente focado em 💻:
 </div>
 
 #### Você também me encontra em:
-<a href="https://www.linkedin.com/in/lucas-espindola-dev/" target='_blank'>
+<a href="https://www.linkedin.com/in/lucas-espindola-dev/" target="_blank">
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
